@@ -1,0 +1,41 @@
+body{
+	background-image: url("Imagenes/16.jpg");
+	text-align: center;
+}
+h1{
+	color: #FF0000;
+	text-align: center;
+	font-size: 50px;
+	margin: 20px 400px;
+	background-color: #0495FC;
+	border: 10px solid powderblue;
+
+}
+.user{
+	color: #A1B316;
+	font-size: 30px;
+}
+.contra{
+	color: #A1B316;
+	font-size: 30px;
+}
+.name{
+	font-size: 25px;
+	text-align: center;
+	padding: 0px;
+	margin: 10px;
+	
+}
+.pass{
+	font-size: 25px;
+	text-align: center;
+	padding: 0px;
+	margin: 10px;
+	
+}
+.boton {
+	color: #E908F7;
+	font-size: 25px;
+	margin: 20px;
+	border-radius: 2px;
+}

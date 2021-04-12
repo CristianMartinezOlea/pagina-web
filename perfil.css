@@ -1,0 +1,63 @@
+
+body{
+	background-image: url("fondos/fondo3.jpg");
+}
+.header{
+	text-align: center;
+	height: 300px;
+	padding: 12px;	
+	background-image: url("fondos/fondo6.jpg");
+
+}
+.avatar{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.user{
+	font-size: 20px;
+	margin-top: 15px;
+	color: red;
+
+}
+.redes{
+	list-style: none;
+	text-align: center;
+	padding: 0px;
+}
+.redes li{
+	display: inline-block;
+	margin: 5px;
+}
+a{
+	text-decoration: none;
+	color: blue;
+}
+a:hover{
+	color: red;
+}
+.cel{
+	color: blue;	
+}
+.icon{
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background-size: cover;
+}
+.email{
+	background-image: url("icon/email.png");
+}
+.facebook{
+	background-image: url("icon/facebook.png");
+}
+.Telefono{
+	background-image: url("icon/Telefono.jpg");
+}
+.regresar{
+	list-style-type:none;	
+	overflow:hidden;
+	margin: 10px;
+	padding: 5px;
+	color: #E6F400;
+}
